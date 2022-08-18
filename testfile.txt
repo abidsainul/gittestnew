@@ -3,5 +3,3 @@ some additions from main branch
 dev changes
 
 changes to test in QA
-
-insurance file added
